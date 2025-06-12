@@ -1,6 +1,4 @@
-Voici un exemple de **README.md** clair et structuré qui explique le fonctionnement du code du Jeu de la Vie en Python avec Pygame :
 
----
 
 # 🧬 Jeu de la Vie (Game of Life) – Python & Pygame
 
